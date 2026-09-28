@@ -23,6 +23,7 @@ For updates, replace the changed files, preserving their paths, and commit to `m
 - `atlas/index.html`: Atlas case study
 - `flowly.html` and `atlas.html`: alternate case study URLs
 - `assets/`: images used by these pages
+- `assets/responsive/`: WebP images in multiple sizes; upload every included variant
 - CSS and JavaScript files: styling and interactions
 
 Google Fonts requires an internet connection. External profile and CV links are preserved from the local portfolio.
